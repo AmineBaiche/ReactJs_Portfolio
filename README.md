@@ -29,4 +29,4 @@ Open http://localhost:3000 to view it in the browser. The page will reload if yo
 ### Edit Resume : 
 To edit the resume simply go to the json file resumedata.js , and edit the lines.
 
-to change profile picture simply go to assets and replace maphoto.jpg with another image MUST BE CALLED maphoto.jpg too .
+to change profile picture simply go to assets and replace maphoto.jpg with another image MUST BE CALLED maphoto.jpg .
