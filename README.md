@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+the portfolio looks like this : 
+![alt text](https://i.imgur.com/mOvtmnq.jpg)
+
 
 ## Available Scripts
 
