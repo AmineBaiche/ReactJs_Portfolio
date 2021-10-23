@@ -64,12 +64,12 @@ const Header = (props) => {
                   
               <Popup trigger={<button className ='bts'> <CustomButton text ={"Hire me "}   icon={<Telegram/>}/></button>} >
     <div className="popup">Numéro :
-        <h6 className ='info'>  (+33) 0619888285
+        <h6 className ='info'>  (+33) 06999999
             </h6> 
               </div>
 
               <div className = "popup">Email :
-              <h6 className='info'>  baicheamine7@gmail.com
+              <h6 className='info'> kkkkkko@gmail.com
             </h6> 
               </div>
   </Popup>
