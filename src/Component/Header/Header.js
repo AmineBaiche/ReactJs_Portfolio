@@ -1,4 +1,7 @@
 import React  from "react";
+import Popup from 'reactjs-popup';
+import 'reactjs-popup/dist/index.css';
+
 import {
     Button,
     Form,
@@ -44,7 +47,7 @@ const Header = (props) => {
                    as={NavLink} 
                   to="/" 
                   className={pathName == "/" ? "header_link_active" : "header_link"}>
-                      Resume
+                      CurriculumVitae
                       </Nav.Link>
         {/* portfolio Link */}
         
@@ -59,8 +62,18 @@ const Header = (props) => {
               </Nav>
               <div className='header_right'>
                   
-                
-                  <CustomButton text ={"Hire me "} icon={<Telegram/>}/>
+              <Popup trigger={<button className ='bts'> <CustomButton text ={"Hire me "}   icon={<Telegram/>}/></button>} >
+    <div className="popup">Numéro :
+        <h6 className ='info'>  (+33) 0619888285
+            </h6> 
+              </div>
+
+              <div className = "popup">Email :
+              <h6 className='info'>  baicheamine7@gmail.com
+            </h6> 
+              </div>
+  </Popup>
+                  
               </div>
           </Navbar.Collapse>
       </Navbar>     
