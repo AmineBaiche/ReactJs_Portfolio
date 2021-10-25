@@ -1,7 +1,7 @@
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
-the portfolio looks like this :   ![alt text](https://i.imgur.com/mOvtmnq.jpg)
+The portfolio looks like this :   ![alt text](https://i.imgur.com/mOvtmnq.jpg)
  
 
 Available Scripts
