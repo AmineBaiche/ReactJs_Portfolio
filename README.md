@@ -1,4 +1,4 @@
-The portfolio looks like this :   ![alt text](https://i.imgur.com/mOvtmnq.jpg)
+The portfolio looks like this :   ![alt text](https://i.imgur.com/ezwrWr0.jpg)
  
 Edit Resume :
 To edit the resume simply go to the json file resumedata.js , and edit the lines.
